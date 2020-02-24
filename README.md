@@ -1,6 +1,7 @@
 # Elastic stack (ELK) on Docker
 
 tomanix YARIX-ELK v1.0
+
 Run the latest version of the [Elastic stack][elk-stack] with Docker and Docker Compose.
 
 It gives you the ability to analyze any data set by using the searching/aggregation capabilities of Elasticsearch and
